@@ -1,0 +1,6 @@
+{
+  "name": "DuFinance",
+  "description": "CRM e Gerenciador Financeiro completo e inteligente com design inspirado no PicPay, previsão de fluxo de caixa, parcelamentos, metas e sincronização Firebase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
